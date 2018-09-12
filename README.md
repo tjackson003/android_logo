@@ -1,0 +1,1 @@
+This is just a remake of the Android logo.
